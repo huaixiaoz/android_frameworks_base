@@ -17,9 +17,11 @@
 #include <CDX_LogNDebug.h>
 #define LOG_TAG "CedarXPlayer"
 #include <utils/Log.h>
+
 #include "window.h"
 #include "hwcomposer.h"
 #include "MetaData.h"
+#include "MediaPlayerInterface.h"
 
 #include <dlfcn.h>
 

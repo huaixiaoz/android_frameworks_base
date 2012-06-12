@@ -17,7 +17,9 @@
 #define LOG_TAG "CedarXNativeRenderer"
 #include <utils/Log.h>
 
+#include "window.h"
 #include "hwcomposer.h"
+#include  "MetaData.h"
 
 #include "CedarXNativeRenderer.h"
 
